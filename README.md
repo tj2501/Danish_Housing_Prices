@@ -15,12 +15,7 @@ Interactive dashboards showing price/sq.m trends
 Visual comparisons of urban vs rural markets
 Interest rate impact analysis
 Undervalued property finder
-📂 What's Included
 
-data_cleaning.ipynb - Prepared datasets ready for analysis
-market_trends.ipynb - Core visualizations and findings
-investment_guide.pptx - Ready-to-use presentation
-regional_dashboard.twbx - Interactive Tableau explorer
 💡 Top 3 Takeaways
 
 Apartments = Best rental yields (5-7% in cities)
